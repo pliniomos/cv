@@ -1,8 +1,11 @@
 # Currículo Profissional
 
 Plínio Manoel Oliveira Silva
+
 Brasileiro, solteiro, 25 anos.
+
 E-mail: ti.plinio@gmail.com
+
 Linkedin: https://www.linkedin.com/in/plinio-silva/
 
 ## FORMAÇÃO ACADÊMICA
