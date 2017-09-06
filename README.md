@@ -38,9 +38,15 @@ Em 2014 e 2015 participei do desenvolvimento de ferramenta de software em ambien
 
 ##### Principais atividades exercidas: 
 
-Desenvolvimento de web sites institucionais e web sites para campanhas publicitárias.
+Desenvolvimento de web sites institucionais, web sites para campanhas publicitárias e facebook apps utilizando o Facebook SDK JavaScript.
 
-Desenvolvimento de Facebook Apps para campanhas publicitárias com o Facebook JavaScript SDK.
+Entre os anos de 2014 a 2016 participei diretamente do desenvolvimento e implantação das seguintes ferramentas web:
+
+Facebook Tab Apps: Nossas Lojas - Óticas Arcoverde, Indique um amigo - Anhanguera Caruaru, Clássicos - Postos Pichilau, Verão seguro - 2A Peças e Serviços, Nossas Lojas - Rosa Master, Pergunta "pro" Charamba, Cardápio Online - Benvenuti Massas, Like do Bem - CAAZ Propaganda, SAC Online - LW Esportes, Nossas Lojas - LW Esportes, Catálogo Online de Serviços - Equibrium Estética, Dia dos Namorados - Livraria Imperatriz Caruaru
+
+Sites institucionais: CAAZ Propaganda, Óticas Arcoverde, Meu Sobrinho, escritório de design, Postos Pichilau, LeMont Motel Caruaru, Benvenuti Massas, Dubeux Comércio Exterior, Abreu & Lima Comissaria de Despachos Aduaneiros,
+
+Sites para campanhas publicitárias: "Liga dos Campeões" do Postos Pichilau, Semana Santa das Óticas Arcoverde, Saúde Legal - LW Esportes
 
 ### CONHECIMENTO TÉCNICO NAS SEGUINTES LINGUAGENS DE PROGRAMAÇÃO, TECNOLOGIAS, FERRAMENTAS E PROCESSOS
 
