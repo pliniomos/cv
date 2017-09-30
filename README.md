@@ -2,11 +2,11 @@
 
 Plínio Manoel Oliveira Silva
 
-Brasileiro, solteiro, 25 anos.
-
 E-mail: ti.plinio@gmail.com
 
 Linkedin: https://www.linkedin.com/in/plinio-silva/
+
+![http://www.refsnesdata.no/certification/w3certified.asp?email=ti.plinio@gmail.com](https://www.w3schools.com/images/w3cert.gif)
 
 ## FORMAÇÃO ACADÊMICA
 
@@ -22,23 +22,43 @@ Instituição: FAFICA Caruaru
 
 Ano de Formação: 2013
 
+## CERTIFICAÇÕES
+
+### Scrum Fundamentals Certified
+
+Órgão Emissor: SCRUMStudy
+
+Ano: 2017
+
+N°: 592551
+
+### HTML W3 Schools Certified
+
+Órgão Emissor: W3Schools.com
+
+Ano: 2017
+
+N°: 9047672
+
 ## EXPERIÊNCIA PROFISSIONAL
 
 ### MAR 2014 - SET 2017 - FAFICA Caruaru
 
 #### Principais atividades exercidas: 
 
-Em 2017 - atuei como DBA em SQL Server para obtenção de relatórios com o Crystal Reports e participei do desenvolvimento e manutenção de sistemas web para automação de processos institucionais, acadêmicos e de comunicação da instituição.
+Em 2014 - Desenvolvimento de ferramenta de software com Java em ambiente Desktop para mapeamento e digitalização de histórico escolar de alunos FAFICA dos anos 60, 70 e 80.
 
-Em 2016 participei do Núcleo de Inovação Tecnológica da FAFICA como Coordenador; o núcleo tem como objetivo a aprendizagem e aperfeiçoamento dos alunos dos cursos de Tecnologia da instituição, através de práticas em Engenharia de Software. Nesse período desenvolvemos e implantamos ferramentas de software para gestão e automação de atividades realizadas em secretarias da Prefeitura Municipal de Caruaru.
+Em 2015 - Desenvolvimento de ferramenta de software com Java em ambiente WEB (JSP + Servlets) para automação de atividades da gestão dos eventos institucionais e científicos da instituição.
 
-Em 2014 e 2015 participei do desenvolvimento de ferramenta de software em ambiente WEB para automação de atividades na gestão de eventos institucionais e científicos da FAFICA e participei também como desenvolvedor de ferramenta de software em ambiente Desktop para mapeamento e digitalização de histórico escolar de alunos FAFICA dos anos 60, 70 e 80.
+Em 2016 - Coordenação do Núcleo de Inovação Tecnológica da FAFICA (Gestão 2016), um núcleo acadêmico que teve como objetivo desenvolver e aperfeiçoar os alunos dos cursos de Tecnologia da instituição. Nesse período desenvolvemos e implantamos ferramentas de software em ambiente WEB (JAVA, JPA, Hibernate ORM, JBoss RestEasy e AngularJS) e Mobile Apps com Android para gestão e automação de atividades realizadas em secretarias da Prefeitura Municipal de Caruaru. 
+
+Em 2017 - Desenvolvimento de ferramenta de software com Java, Spring, Jersey e AngularJS para automação de processos de comunicação da instituição. Desenvolvimento de aplicativo mobile com Apache Cordova e atuação como DBA em SQL Server para obtenção de relatórios com o Crystal Reports.
 
 ### MAR 2014 - ABR 2016 - CAAZ PROPAGANDA
 
 ##### Principais atividades exercidas: 
 
-Desenvolvimento de web sites institucionais, web sites para campanhas publicitárias e facebook apps utilizando o Facebook SDK JavaScript.
+Desenvolvimento com HTML5 e Wordpress de web sites institucionais, hotsites para ações de marketing e utilização do Facebook JavaScript SDK para desenvolvimento de Tab Apps em Fanpages de campanhas publicitárias.
 
 Entre os anos de 2014 a 2016 participei diretamente do desenvolvimento e implantação das seguintes ferramentas web:
 
@@ -46,41 +66,22 @@ Facebook Tab Apps: Nossas Lojas - Óticas Arcoverde, Indique um amigo - Anhangue
 
 Sites institucionais: CAAZ Propaganda, Óticas Arcoverde, Meu Sobrinho, escritório de design, Postos Pichilau, LeMont Motel Caruaru, Benvenuti Massas, Dubeux Comércio Exterior, Abreu & Lima Comissaria de Despachos Aduaneiros,
 
-Sites para campanhas publicitárias: "Liga dos Campeões" do Postos Pichilau, Semana Santa das Óticas Arcoverde, Saúde Legal - LW Esportes
+Sites para campanhas publicitárias: "Liga dos Campeões" do Postos Pichilau, Semana Santa das Óticas Arcoverde, Saúde Legal - LW Esportes.
 
-### CONHECIMENTO TÉCNICO NAS SEGUINTES LINGUAGENS DE PROGRAMAÇÃO, TECNOLOGIAS, FERRAMENTAS E PROCESSOS
+### CONHECIMENTO TÉCNICO NAS SEGUINTES TECNOLOGIAS e FERRAMENTAS
 
-Java,
-JAX-RS com JBoss Rest Easy,
-Java EE,
-JSP Servlets,
-JSF,
-JUnit,
-Java Annotations,
-JPA com Hibernate ORM,
-HTML,
-Javascript,
-CSS,
-Responsive Web Pages,
-AngularJs 1.0,
-GruntJS,
-Apache Cordova,
-Padrões de Projeto de Software;
-Modelos e Padrões Arquiteturais de Software;
-SQL Server,
-MySql,
-PostgreSQL,
-XML,
-Ubuntu,
-CENTOS,
-Apache,
-Crystal Reports,
-Familiarizado com SCRUM como metodologia ágil,
-Ferramenta de controle de versão: GIT,
-PHP
-Doctrine PHP ORM
-API’s RestFul com Slim Framework PHP,
-Desenvolvimento avançado com Wordpress.
+Java, JAX-RS, JBoss Rest Easy, Java EE, JSP Servlets, JSF, JUnit, Java Annotations, JPA com Hibernate ORM, Spring Framework, HTML, Javascript, CSS, Responsive Web Pages, AngularJs, GruntJS, Apache Cordova, SQL Server, MySql, PostgreSQL, XML, Configuração de ambientes Ubuntu, Apache, Tomcat, Crystal Reports.
+
+### FORMAÇÃO COMPLEMENTAR
+
+##### Usabilidade na Web
+Local: Treina Web Cursos
+
+##### Processo de Desenvolvimento de Software
+Local: Escola Virtual Fundação Bradesco
+
+##### Android Básico
+Local: Jornada Tecnológica FAFICA
 
 ### LÍNGUA ESTRANGEIRA
 
