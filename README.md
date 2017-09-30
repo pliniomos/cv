@@ -4,8 +4,9 @@ E-mail: ti.plinio@gmail.com
 
 Linkedin: https://www.linkedin.com/in/plinio-silva/
 
-![](http://fafica-pe.edu.br/wp-content/uploads/2017/09/sfc2.png)
+![](http://fafica-pe.edu.br/wp-content/uploads/2017/09/sc4jd.png)
 ![](http://fafica-pe.edu.br/wp-content/uploads/2017/09/w3.png) 
+![](http://fafica-pe.edu.br/wp-content/uploads/2017/09/sfc2.png)
 
 ## FORMAÇÃO ACADÊMICA
 
@@ -23,9 +24,9 @@ Ano de Formação: 2013
 
 ## CERTIFICAÇÕES
 
-### Scrum Fundamentals Certified
+### Scrum Certification for Java Developer
 
-Órgão Emissor: SCRUMStudy
+Órgão Emissor: International Scrum Institute™
 
 Ano: 2017
 
@@ -37,7 +38,15 @@ N°: 592551
 
 Ano: 2017
 
-N°: 9047672
+N°: 12102811409160
+
+### Scrum Fundamentals Certified
+
+Órgão Emissor: SCRUMStudy
+
+Ano: 2017
+
+N°: 592551
 
 ## EXPERIÊNCIA PROFISSIONAL
 
