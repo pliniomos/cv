@@ -50,10 +50,18 @@ N°: 592551
 
 ## EXPERIÊNCIA PROFISSIONAL
 
+### FEV 2014 - Até o Momento - WVP Sistemas e Tecnologias 
+
+Sócio Fundador e Engenheiro do Software
+
 ### FEV 2014 - SET 2017 - FAFICA Caruaru
 
-### MAR 2014 - ABR 2016 - CAAZ PROPAGANDA
+Analista de Sistemas
 
-### CONHECIMENTO TÉCNICO NAS SEGUINTES TECNOLOGIAS e FERRAMENTAS
+### MAR 2014 - ABR 2016 - CAAZ PROPAGANDA 
+
+Desenvolvedor Web
+
+## CONHECIMENTO TÉCNICO NAS SEGUINTES TECNOLOGIAS e FERRAMENTAS
 
 Java, JAX-RS, JBoss Rest Easy, Java EE, JSP Servlets, JSF, JUnit, Java Annotations, JPA com Hibernate ORM, Spring Framework, HTML, Javascript, CSS, Responsive Web Pages, AngularJs, GruntJS, Apache Cordova, SQL Server, MySql, PostgreSQL, XML, Configuração de ambientes Ubuntu, Apache, Tomcat, Crystal Reports.
