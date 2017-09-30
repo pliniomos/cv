@@ -1,12 +1,10 @@
-# Currículo Profissional
-
-Plínio Manoel Oliveira Silva
+# Plínio Manoel Oliveira Silva
 
 E-mail: ti.plinio@gmail.com
 
 Linkedin: https://www.linkedin.com/in/plinio-silva/
 
-![http://www.refsnesdata.no/certification/w3certified.asp?email=ti.plinio@gmail.com](https://www.w3schools.com/images/w3cert.gif)
+![](http://fafica-pe.edu.br/wp-content/uploads/2017/09/w3.png) ![](http://fafica-pe.edu.br/wp-content/uploads/2017/09/sfc2.png)
 
 ## FORMAÇÃO ACADÊMICA
 
