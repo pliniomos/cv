@@ -4,7 +4,8 @@ E-mail: ti.plinio@gmail.com
 
 Linkedin: https://www.linkedin.com/in/plinio-silva/
 
-![](http://fafica-pe.edu.br/wp-content/uploads/2017/09/w3.png) ![](http://fafica-pe.edu.br/wp-content/uploads/2017/09/sfc2.png)
+![](http://fafica-pe.edu.br/wp-content/uploads/2017/09/sfc2.png)
+![](http://fafica-pe.edu.br/wp-content/uploads/2017/09/w3.png) 
 
 ## FORMAÇÃO ACADÊMICA
 
