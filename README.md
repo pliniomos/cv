@@ -8,6 +8,10 @@ E-mail: ti.plinio@gmail.com
 
 Linkedin: https://www.linkedin.com/in/plinio-silva/
 
+## CONHECIMENTO TÉCNICO NAS SEGUINTES TECNOLOGIAS e FERRAMENTAS
+
+Java, JAX-RS, JBoss Rest Easy, Java EE, JSP Servlets, JSF, JUnit, Java Annotations, JPA com Hibernate ORM, Spring Framework, HTML, Javascript, CSS, Responsive Web Pages, AngularJs, GruntJS, Apache Cordova, SQL Server, MySql, PostgreSQL, XML, Configuração de ambientes Ubuntu, Apache, Tomcat, Crystal Reports.
+
 ## FORMAÇÃO ACADÊMICA
 
 ### Mestrado Profissional em Engenharia de Software.
@@ -47,21 +51,3 @@ N°: 12102811409160
 Ano: 2017
 
 N°: 592551
-
-## EXPERIÊNCIA PROFISSIONAL
-
-### FEV 2014 - Até o Momento - WVP Sistemas e Tecnologias 
-
-Sócio Fundador e Engenheiro do Software
-
-### FEV 2014 - SET 2017 - FAFICA Caruaru
-
-Analista de Sistemas
-
-### MAR 2014 - ABR 2016 - CAAZ PROPAGANDA 
-
-Desenvolvedor Web
-
-## CONHECIMENTO TÉCNICO NAS SEGUINTES TECNOLOGIAS e FERRAMENTAS
-
-Java, JAX-RS, JBoss Rest Easy, Java EE, JSP Servlets, JSF, JUnit, Java Annotations, JPA com Hibernate ORM, Spring Framework, HTML, Javascript, CSS, Responsive Web Pages, AngularJs, GruntJS, Apache Cordova, SQL Server, MySql, PostgreSQL, XML, Configuração de ambientes Ubuntu, Apache, Tomcat, Crystal Reports.
