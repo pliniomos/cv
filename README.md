@@ -10,7 +10,7 @@ Linkedin: https://www.linkedin.com/in/plinio-silva/
 
 ## CONHECIMENTO TÉCNICO NAS SEGUINTES TECNOLOGIAS e FERRAMENTAS
 
-Java, JAX-RS, JBoss Rest Easy, Java EE, JSP Servlets, JSF, JUnit, Java Annotations, JPA com Hibernate ORM, Spring Framework, HTML, Javascript, CSS, Responsive Web Pages, AngularJs, GruntJS, Apache Cordova, SQL Server, MySql, PostgreSQL, XML, Configuração de ambientes Ubuntu, Apache, Tomcat, Crystal Reports.
+Java, JAX-RS, JBoss Rest Easy, GraphQl, Java EE, JSP Servlets, JSF, JUnit, Java Annotations, JPA com Hibernate ORM, Spring Framework, HTML, Javascript, CSS, Responsive Web Pages, AngularJs, GruntJS, Apache Cordova, SQL Server, MySql, PostgreSQL, XML, Configuração de ambientes Ubuntu, Apache, Tomcat, Crystal Reports.
 
 ## FORMAÇÃO ACADÊMICA
 
